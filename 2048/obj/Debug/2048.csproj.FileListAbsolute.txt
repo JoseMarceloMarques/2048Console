@@ -1,0 +1,14 @@
+C:\Users\mmarques\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\mmarques\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\mmarques\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\mmarques\source\repos\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\mmarques\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\mmarques\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\mmarques\source\repos\2048\2048\obj\Debug\2048.pdb
+C:\Users\Marcelo\Desktop\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Marcelo\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\Marcelo\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\Marcelo\Desktop\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\2048\2048\obj\Debug\2048.exe
+C:\Users\Marcelo\Desktop\2048\2048\obj\Debug\2048.pdb
